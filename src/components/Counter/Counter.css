@@ -1,0 +1,15 @@
+.counter {
+    display: flex;
+}
+h1 {
+    padding: 0.5em;
+    margin: 0;
+}
+button {
+    width: 50px;
+    margin: 0;
+    background-color: #eee;
+    border: none;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+}
